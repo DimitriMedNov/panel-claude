@@ -1,0 +1,8 @@
+{
+  "uuid": "panel-claude@dimitrimednov.github.io",
+  "name": "Panel Claude",
+  "description": "Tus límites de Claude Code (5 horas y semana) en la barra de arriba, qué hace cada sesión y avisos cuando una termina o te pide permiso.",
+  "shell-version": ["48", "49", "50", "51"],
+  "url": "https://github.com/DimitriMedNov/panel-claude",
+  "version": 1
+}

@@ -1,0 +1,21 @@
+/* Panel Claude, tema claro: mismos estilos con colores legibles sobre fondo blanco. */
+.pc-punto { font-size: 9pt; padding-right: 6px; }
+.pc-trabaja { color: #1c71d8; }
+.pc-espera { color: #9c6e03; font-weight: bold; }
+.pc-listo { color: #26a269; }
+.pc-quieto { color: #77767b; }
+
+.pc-alto { color: #9c6e03; }
+.pc-critico { color: #c01c28; font-weight: bold; }
+
+.pc-titulo { font-weight: bold; color: #222226; }
+.pc-proyecto { font-weight: bold; padding-right: 12px; }
+.pc-detalle { font-size: 0.85em; color: #5e5c64; }
+
+.pc-seccion { font-size: 0.85em; color: #5e5c64; padding-right: 12px; }
+.pc-linea { height: 1px; background-color: rgba(0, 0, 0, 0.15); }
+
+.pc-barra { height: 6px; border-radius: 3px; background-color: rgba(119, 118, 123, 0.25); margin: 5px 0; }
+.pc-relleno { height: 6px; border-radius: 3px; background-color: #3584e4; }
+.pc-relleno.pc-alto-fondo { background-color: #e5a50a; }
+.pc-relleno.pc-critico-fondo { background-color: #e01b24; }
